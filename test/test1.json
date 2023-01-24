@@ -4,10 +4,10 @@
   "namespace": "test",
   "inputDataUri": "crabs-long.csv",
   "outputDataUri": ["result.csv"],
-  "columns": ["sex"],
+  "columns": [],
   "rows": ["variable"],
   "colors": [],
   "labels": [],
   "yAxis": "measurement",
-  "xAxis": ""
+  "xAxis": "sp"
 }
